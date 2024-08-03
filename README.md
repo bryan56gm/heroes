@@ -35,3 +35,5 @@ La aplicación permite a los usuarios:
    - Inicia sesión con el usuario root (sin contraseña).
    - Haz clic en la pestaña "Importar".
    - Selecciona el archivo SQL proporcionado con el proyecto (e.g., superheroes.sql) y cárgalo para crear la base de datos y las tablas necesarias.
+
+![Ajax Heroes](https://raw.githubusercontent.com/bryan56gm/heroes/main/preview.jpg)
