@@ -19,7 +19,7 @@ La aplicación permite a los usuarios:
 ## Instalación y Ejecución
 
 1. **Descarga e instala WAMPServer:**
-   - Puedes descargar WAMPServer desde [su sitio web oficial](https://www.wampserver.com/).
+   - Recomendado WAMPServer para esta guia.
    - Sigue las instrucciones de instalación y asegúrate de que esté ejecutándose.
 
 2. **Clona el repositorio en la carpeta `www` de WAMPServer:**
